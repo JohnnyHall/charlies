@@ -1,0 +1,12 @@
+{
+  "name": "charlies",
+  "version": "1.0.0",
+  "description": "created by joao tapparo",
+  "main": "index.js",
+  "repository": "https://github.com/JohnnyHall/charlies.git",
+  "author": "joaotapparo@pm.me",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
+}
